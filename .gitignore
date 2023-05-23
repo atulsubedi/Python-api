@@ -1,5 +1,5 @@
 #ignore cat.txt
-.txt
+.cat.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
