@@ -1,6 +1,5 @@
 #ignore cat.txt
-python-project/Python-api/*.txt
-
+.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
